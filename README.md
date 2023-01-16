@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Valyme 👋!</h1>
-<h3 align="center">I develop in [Python](https://github.com/python) 🐍</h3>
+<h3 align="center">I develop in (Python)[https://github.com/python] 🐍</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Valyyme&color=red&style=flat" alt="Valyyme"/></p>
 
-<p align="left">- 🔭 I’m currently working on [DDPE](https://github.com/Valyyme/DDPE)</p>
-<p align="left">- 🌱 I’m still learning [Python](https://github.com/python)</p>
+<p align="left">- 🔭 I’m currently working on (DDPE)[https://github.com/Valyyme/DDPE]</p>
+<p align="left">- 🌱 I’m still learning (Python)(https://github.com/python)</p>
 
 <!--
 **Valyyme/Valyyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
